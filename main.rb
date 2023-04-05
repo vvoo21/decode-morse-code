@@ -11,3 +11,16 @@ $code = {
 def decode_char(char)
   return $code[char]
 end
+
+def decode_word(word)
+  split = word.split(" ")
+  return split.map { |char| decode_char(char) }.join("")
+end
+
+def decode(message)
+  split = message.split("  ")
+  return split.map { |word| decode_word(word) }.join(" ")
+end
+
+decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+# "A BOX FULL OF RUBIES"
