@@ -1,5 +1,14 @@
 <a name="readme-top"></a>
 
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/vvoo21/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -16,26 +25,23 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 [Decode Morse Code] <a name="about-project"></a>
 
-> It is a method to decode a morse code message into a readable text and was built with Ruby. 
+It is a method to decode a morse code message into a readable text and was built with Ruby. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> [Ruby](https://www.ruby-lang.org/en/) 
+- [Ruby](https://www.ruby-lang.org/en/) 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Decode morse message]**
-- **[Decode morse word]**
-- **[Decode morse character]**
+- Decode morse message
+- Decode morse word
+- Decode morse character
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,7 +53,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To run this project, follow these steps:
+To run this project, follow these steps:
 
 ### Prerequisites
 
@@ -90,11 +96,9 @@ Install the project dependencies with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Encode morse message]**
-- [ ] **[Encode morse word]**
-- [ ] **[Encode morse character]**
+- Encode morse message
+- Encode morse word
+- Encode morse character
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,23 +112,14 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Give a start if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-Not Available
+- I would like to thank the Microverse program!
+- I would like to thank anyone whose code was used!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
