@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Decode Morse Code] <a name="about-project"></a>
+# 📖 Decode Morse Code <a name="about-project"></a>
 
 It is a method to decode a morse code message into a readable text and was built with Ruby. 
 
